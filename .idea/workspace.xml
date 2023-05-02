@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PCbev3lqxDZJccJwnxD1ldHrhI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C07_SoftAssert">
+    <configuration name="C05_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_notations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day16_notations" />
+      <option name="MAIN_CLASS_NAME" value="day16_notations.C05_Assertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Assertions.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_notations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day16_notations" />
+      <option name="MAIN_CLASS_NAME" value="day16_notations.C05_Assertions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_SoftAssert.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_notations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day16_notations" />
+      <option name="MAIN_CLASS_NAME" value="day16_notations.C06_SoftAssert" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_SoftAssert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_notations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day16_notations" />
+      <option name="MAIN_CLASS_NAME" value="day16_notations.C07_SoftAssert" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_SoftAssert.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_notations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day16_notations" />
+      <option name="MAIN_CLASS_NAME" value="day16_notations.C07_SoftAssert" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C07_SoftAssert" />
+        <item itemvalue="TestNG.C07_SoftAssert.test01" />
+        <item itemvalue="TestNG.C06_SoftAssert.test01" />
+        <item itemvalue="TestNG.C05_Assertions.test01" />
+        <item itemvalue="TestNG.C05_Assertions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="" />
+      <created>1682964111337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682964111337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/day16_notations/C05_Assertions.java</url>
+          <line>18</line>
+          <properties class="day16_notations.C05_Assertions" method="test01">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
