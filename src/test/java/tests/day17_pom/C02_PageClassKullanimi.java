@@ -18,9 +18,10 @@ public class C02_PageClassKullanimi {
         amazonPage.aramaKutusu.sendKeys("Nutella"+ Keys.ENTER);
         // Sonuc yazisinin nutella icerdigini test edelim
         String actualSonuc=amazonPage.aramaSonucElementi.getText();
-        String arananKelime="nutella";
+        String arananKelime="Nutella";
         Assert.assertTrue(actualSonuc.contains(arananKelime));
 
+        Driver.closeDriver();
 
 
     }

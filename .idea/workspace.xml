@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C01_BeforeMethod_AfterMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C02_BeforeClass_AfterClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C03_Priority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C04_DependsOnMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C05_Assertions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C06_SoftAssert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C07_SoftAssert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilitiesTestNG/TestBase.class" beforeDir="false" />
-    </list>
+    <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +51,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C01_YeniDriverIlkClass">
+  <component name="RunManager" selected="TestNG.C02_PageClassKullanimi">
     <configuration name="C01_YeniDriverIlkClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -80,34 +69,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Assertions.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_PageClassKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_notations.*" />
+          <option name="PATTERN" value="tests.day17_pom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_notations" />
-      <option name="MAIN_CLASS_NAME" value="day16_notations.C05_Assertions" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="tests.day17_pom" />
+      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C02_PageClassKullanimi" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_SoftAssert.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_PageClassKullanimi.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_notations.*" />
+          <option name="PATTERN" value="tests.day17_pom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_notations" />
-      <option name="MAIN_CLASS_NAME" value="day16_notations.C06_SoftAssert" />
+      <option name="PACKAGE_NAME" value="tests.day17_pom" />
+      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C02_PageClassKullanimi" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -153,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_PageClassKullanimi" />
+        <item itemvalue="TestNG.C02_PageClassKullanimi.test01" />
         <item itemvalue="TestNG.C01_YeniDriverIlkClass" />
         <item itemvalue="TestNG.C07_SoftAssert" />
         <item itemvalue="TestNG.C07_SoftAssert.test01" />
-        <item itemvalue="TestNG.C06_SoftAssert.test01" />
-        <item itemvalue="TestNG.C05_Assertions.test01" />
       </list>
     </recent_temporary>
   </component>
