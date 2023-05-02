@@ -14,15 +14,21 @@ public class Driver {
      */
     static WebDriver driver;
     public static WebDriver getDriver(){
-        WebDriverManager.chromedriver().setup();
-        driver=new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-        driver.manage().window().maximize();
 
+        if (driver == null) {
+
+            WebDriverManager.chromedriver().setup();
+            driver = new ChromeDriver();
+            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+            driver.manage().window().maximize();
+        }
         return driver;
     }
     public static void closeDriver(){
+        if (driver!=null){
+            driver.close();
+            driver=null;
+        }
 
-        driver.close();
     }
 }

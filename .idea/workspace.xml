@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="" />
+    <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C01_BeforeMethod_AfterMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C02_BeforeClass_AfterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C03_Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C04_DependsOnMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C05_Assertions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C06_SoftAssert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day16_notations/C07_SoftAssert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilitiesTestNG/TestBase.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,8 +42,10 @@
     </option>
   </component>
   <component name="ProjectId" id="2PCbev3lqxDZJccJwnxD1ldHrhI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -39,21 +55,24 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/day16_notations" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C07_SoftAssert">
-    <configuration name="C05_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C01_YeniDriverIlkClass">
+    <configuration name="C01_YeniDriverIlkClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_notations.*" />
+          <option name="PATTERN" value="tests.day17_pom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_notations" />
-      <option name="MAIN_CLASS_NAME" value="day16_notations.C05_Assertions" />
+      <option name="PACKAGE_NAME" value="tests.day17_pom" />
+      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C01_YeniDriverIlkClass" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -134,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C01_YeniDriverIlkClass" />
         <item itemvalue="TestNG.C07_SoftAssert" />
         <item itemvalue="TestNG.C07_SoftAssert.test01" />
         <item itemvalue="TestNG.C06_SoftAssert.test01" />
         <item itemvalue="TestNG.C05_Assertions.test01" />
-        <item itemvalue="TestNG.C05_Assertions" />
       </list>
     </recent_temporary>
   </component>
@@ -157,9 +176,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/day16_notations/C05_Assertions.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/tests/day16_notations/C05_Assertions.java</url>
           <line>18</line>
-          <properties class="day16_notations.C05_Assertions" method="test01">
+          <properties class="tests.day16_notations.C05_Assertions" method="test01">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
