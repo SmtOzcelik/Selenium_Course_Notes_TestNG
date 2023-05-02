@@ -6,9 +6,12 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
 public class AmazonPage {
-    AmazonPage(){
+
+   public AmazonPage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
+
+
     @FindBy(id="twotabsearchtextbox")
     public WebElement aramaKutusu;
 
