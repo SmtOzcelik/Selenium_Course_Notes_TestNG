@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PozitifLoginTest.positiveLoginTest">
+  <component name="RunManager" selected="TestNG.NegatifLoginTesti.yanlisSifre">
     <configuration name="C01_ConfigReader" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -74,16 +71,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_ConfigReaderKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegatifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18_pom.*" />
+          <option name="PATTERN" value="tests.day19_somokeTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18_pom" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18_pom.C02_ConfigReaderKullanimi" />
+      <option name="PACKAGE_NAME" value="tests.day19_somokeTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19_somokeTest.NegatifLoginTesti" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -91,17 +88,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_PageClassKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegatifLoginTesti.yanlisSifre" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day17_pom.*" />
+          <option name="PATTERN" value="tests.day19_somokeTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day17_pom" />
-      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C03_PageClassKullanimi" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="tests.day19_somokeTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19_somokeTest.NegatifLoginTesti" />
+      <option name="METHOD_NAME" value="yanlisSifre" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -145,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NegatifLoginTesti.yanlisSifre" />
+        <item itemvalue="TestNG.NegatifLoginTesti" />
         <item itemvalue="TestNG.PozitifLoginTest.positiveLoginTest" />
         <item itemvalue="TestNG.PozitifLoginTest" />
         <item itemvalue="TestNG.C01_ConfigReader" />
-        <item itemvalue="TestNG.C02_ConfigReaderKullanimi" />
-        <item itemvalue="TestNG.C03_PageClassKullanimi" />
       </list>
     </recent_temporary>
   </component>
