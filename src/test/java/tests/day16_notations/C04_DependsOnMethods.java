@@ -29,7 +29,7 @@ public class C04_DependsOnMethods {
 
     @Test
     public void test01(){
-        driver.get("https://www.ğğamazon.com");
+        driver.get("https://www.ramazon.com");
     }
     @Test(dependsOnMethods = "test01")
     public void test02(){

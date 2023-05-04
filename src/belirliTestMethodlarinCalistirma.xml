@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<!--
+   bir class da tum test methodlari calisacaksa bunun icin direk class secmek yeterlidir
+   method secmemizin temel amaci class icerisinde sadece belirlenen methodlari calismasi
+   veya belirlenen methodlar disindaki tum methodlarin calismadir.
+
+   eger calisacak belirli methodlari belirmek istersek inclusive
+   calismayacak methodlari belirtmek istersek exclude
+   keyword kullanilir.
+
+    eger methodlar dependsOnMethods ile birbirine baglanmissa xml dosyasi
+     calisirken celiski olusmammasi lazim. celiski durumunda selenium tesleri calistirmaz-->
+
+<suite name="belirli methodlari calistiralim">
+    <test name="method">
+        <classes>
+            <class name="tests.day16_notations.C03_Priority">
+                <methods>
+                    <include name="test02"></include>
+                </methods>
+            </class>
+            <class name="tests.day16_notations.C04_DependsOnMethods">
+                <methods>
+                    <exclude name="test03"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
