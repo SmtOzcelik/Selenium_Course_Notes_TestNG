@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C03_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C03_Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C04_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C04_DependsOnMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C06_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C06_SoftAssert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C01_YeniDriverIlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C01_YeniDriverIlkClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C03_Priority.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C03_Priority.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C04_DependsOnMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C04_DependsOnMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C06_SoftAssert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C06_SoftAssert.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,25 +54,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliGruplariCalistirma.xml">
-    <configuration name="NegatifLoginTesti.yanlisSifre" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19_somokeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19_somokeTest" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19_somokeTest.NegatifLoginTesti" />
-      <option name="METHOD_NAME" value="yanlisSifre" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/tumTestleriCalistirma.xml">
     <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliClasslariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliClasslariCalistirma.xml" />
@@ -120,13 +95,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/tumTestleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/tumTestleriCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/tumTestleriCalistirma.xml" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliGruplariCalistirma.xml" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliTestMethodlarinCalistirma.xml" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliPackageOlusturma.xml" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliClasslariCalistirma.xml" />
-        <item itemvalue="TestNG.NegatifLoginTesti.yanlisSifre" />
       </list>
     </recent_temporary>
   </component>
