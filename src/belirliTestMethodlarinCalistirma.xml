@@ -9,10 +9,13 @@
    keyword kullanilir.
 
     eger methodlar dependsOnMethods ile birbirine baglanmissa xml dosyasi
-     calisirken celiski olusmammasi lazim. celiski durumunda selenium tesleri calistirmaz-->
+     calisirken celiski olusmammasi lazim. celiski durumunda selenium tesleri calistirmaz
+
+     suite taf inin icine yazilacak verbose attribute konsolda cikan
+     mesajlarin daha az veya daha cok olmasini belirler-->
 
 <suite name="belirli methodlari calistiralim">
-    <test name="method">
+    <test name="method" verbose="3">
         <classes>
             <class name="tests.day16_notations.C03_Priority">
                 <methods>
