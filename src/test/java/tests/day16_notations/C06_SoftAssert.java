@@ -16,7 +16,7 @@ public class C06_SoftAssert extends TestBase {
     // 5-arama yapildigini test edin
     // 6-arama sonucunu Kutella icerdigini test edin
 
-    @Test
+    @Test(groups = "grup2")
     public void test01() {
         /*
         Softassertion baklangic ve bitis satirlari arasindaki tum assertionlari yapip
