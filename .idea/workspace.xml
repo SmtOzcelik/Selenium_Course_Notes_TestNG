@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day21_reusableMethods_HtmReports/C02_ScreenShotReusableMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day21_reusableMethods_HtmReports/C02_ScreenShotReusableMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C02_ScreenShotWebElementReusableMethod">
+  <component name="RunManager" selected="TestNG.C01_WindowHandleReusableMethods.test01">
     <configuration name="C01_WindowHandleReusableMethods" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -68,6 +66,24 @@
       <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
       <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C01_WindowHandleReusableMethods" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_WindowHandleReusableMethods.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C01_WindowHandleReusableMethods" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -126,23 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/denemee.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/denemee.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C01_WindowHandleReusableMethods.test01" />
         <item itemvalue="TestNG.C02_ScreenShotWebElementReusableMethod" />
         <item itemvalue="TestNG.C02_ScreenShotReusableMethod" />
         <item itemvalue="TestNG.C01_WindowHandleReusableMethods.test02" />
         <item itemvalue="TestNG.C01_WindowHandleReusableMethods" />
-        <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/denemee.xml" />
       </list>
     </recent_temporary>
   </component>
