@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmReports/Ç03_PozitifLoginTestiRaporlu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmReports/Ç03_PozitifLoginTestiRaporlu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmReports/C03_NegatifLoginTestiRaporuFotoCek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmReports/C03_NegatifLoginTestiRaporuFotoCek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Ç03_PozitifLoginTestiRaporlu.test01">
+  <component name="RunManager" selected="TestNG.C03_NegatifLoginTestiRaporuFotoCek.test01">
     <configuration name="C01_WindowHandleReusableMethods.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -73,41 +73,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WindowHandleReusableMethods.test02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C01_WindowHandleReusableMethods" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_ScreenShotReusableMethod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C02_ScreenShotReusableMethod" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C02_ScreenShotWebElementReusableMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -119,6 +84,41 @@
       <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
       <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C02_ScreenShotWebElementReusableMethod" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_NegatifLoginTestiRaporuFotoCek" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C03_NegatifLoginTestiRaporuFotoCek" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_NegatifLoginTestiRaporuFotoCek.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C03_NegatifLoginTestiRaporuFotoCek" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C03_NegatifLoginTestiRaporuFotoCek.test01" />
+        <item itemvalue="TestNG.C03_NegatifLoginTestiRaporuFotoCek" />
         <item itemvalue="TestNG.Ç03_PozitifLoginTestiRaporlu.test01" />
         <item itemvalue="TestNG.C01_WindowHandleReusableMethods.test01" />
         <item itemvalue="TestNG.C02_ScreenShotWebElementReusableMethod" />
-        <item itemvalue="TestNG.C02_ScreenShotReusableMethod" />
-        <item itemvalue="TestNG.C01_WindowHandleReusableMethods.test02" />
       </list>
     </recent_temporary>
   </component>
