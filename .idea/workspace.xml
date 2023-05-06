@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="" />
+    <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,25 +55,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C02_SoftAssertCross.test01">
-    <configuration name="C01_AssertionsCross.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
-      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C01_AssertionsCross" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C03_DataProvider.dataProviderTesti">
     <configuration name="C02_SoftAssertCross.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -90,16 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_NegatifLoginTestiRaporuFotoCek" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
+          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C03_NegatifLoginTestiRaporuFotoCek" />
+      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C03_DataProvider" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -107,10 +91,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/CrossBrowserClassCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_DataProvider.dataProviderTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/CrossBrowserClassCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C03_DataProvider" />
+      <option name="METHOD_NAME" value="dataProviderTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_DataProvider.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C03_DataProvider" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -129,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C03_DataProvider.dataProviderTesti" />
+        <item itemvalue="TestNG.C03_DataProvider.test01" />
+        <item itemvalue="TestNG.C03_DataProvider" />
         <item itemvalue="TestNG.C02_SoftAssertCross.test01" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/CrossBrowserParalelCalistirma.xml" />
-        <item itemvalue="TestNG.C01_AssertionsCross.test01" />
-        <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/CrossBrowserClassCalistirma.xml" />
-        <item itemvalue="TestNG.C03_NegatifLoginTestiRaporuFotoCek" />
       </list>
     </recent_temporary>
   </component>
