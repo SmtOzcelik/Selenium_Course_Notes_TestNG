@@ -54,30 +54,45 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/denemee.xml">
+  <component name="RunManager" selected="TestNG.C01_WindowHandleReusableMethods.test02">
+    <configuration name="C01_WindowHandleReusableMethods" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C01_WindowHandleReusableMethods" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_WindowHandleReusableMethods.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C01_WindowHandleReusableMethods" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliGruplariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliGruplariCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliPackageOlusturma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliPackageOlusturma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliTestMethodlarinCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliTestMethodlarinCalistirma.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -107,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C01_WindowHandleReusableMethods.test02" />
+        <item itemvalue="TestNG.C01_WindowHandleReusableMethods" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/denemee.xml" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/tumTestleriCalistirma.xml" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliGruplariCalistirma.xml" />
-        <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliTestMethodlarinCalistirma.xml" />
-        <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/belirliPackageOlusturma.xml" />
       </list>
     </recent_temporary>
   </component>
