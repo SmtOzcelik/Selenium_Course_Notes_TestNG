@@ -52,7 +52,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C02_ScreenShotReusableMethod">
+  <component name="RunManager" selected="TestNG.C03_NegatifLoginTestiRaporuFotoCek">
     <configuration name="C02_ScreenShotReusableMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -135,10 +135,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C03_NegatifLoginTestiRaporuFotoCek" />
         <item itemvalue="TestNG.C02_ScreenShotReusableMethod" />
         <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/tumTestleriParalelCalistirma.xml" />
         <item itemvalue="TestNG.C03_NegatifLoginTestiRaporuFotoCek.test01" />
-        <item itemvalue="TestNG.C03_NegatifLoginTestiRaporuFotoCek" />
         <item itemvalue="TestNG.Ç03_PozitifLoginTestiRaporlu.test01" />
       </list>
     </recent_temporary>
