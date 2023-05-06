@@ -21,7 +21,7 @@ public class C01_AssertionsCross extends TestBaseCross {
         // 1-amazon git
         driver.get("https://www.amazon.com");
         // 2-title in Amazon icerdigini test edelim
-        String expectedTitle="amazon";
+        String expectedTitle="Amazon";
         Assert.assertTrue(driver.getTitle().contains(expectedTitle));
         // 3-arama kutusunun erisebilirligini old. test edin
         WebElement aramaKutusu=driver.findElement(By.id("twotabsearchtextbox"));
