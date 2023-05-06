@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="008be79b-ff7e-441f-8eab-f924e9cc0b62" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmReports/Ç03_PozitifLoginTestiRaporlu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmReports/Ç03_PozitifLoginTestiRaporlu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,24 +54,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C01_WindowHandleReusableMethods.test01">
-    <configuration name="C01_WindowHandleReusableMethods" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNG_Batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.C01_WindowHandleReusableMethods" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Ç03_PozitifLoginTestiRaporlu.test01">
     <configuration name="C01_WindowHandleReusableMethods.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -142,13 +125,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ç03_PozitifLoginTestiRaporlu.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNG_Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day21_reusableMethods_HtmReports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmReports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmReports.Ç03_PozitifLoginTestiRaporlu" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Ç03_PozitifLoginTestiRaporlu.test01" />
         <item itemvalue="TestNG.C01_WindowHandleReusableMethods.test01" />
         <item itemvalue="TestNG.C02_ScreenShotWebElementReusableMethod" />
         <item itemvalue="TestNG.C02_ScreenShotReusableMethod" />
         <item itemvalue="TestNG.C01_WindowHandleReusableMethods.test02" />
-        <item itemvalue="TestNG.C01_WindowHandleReusableMethods" />
       </list>
     </recent_temporary>
   </component>
