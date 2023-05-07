@@ -37,7 +37,7 @@ public class C03_DataProvider {
     }
 
 
-    @Test(dataProvider = "AranacakKelimeler" )
+    @Test (dataProvider = "AranacakKelimeler")
     //arayacagimiz kelimeleri bir liste gibi tutup bana yollayacak bir veri saglayici oluşturacagiz
     public void dataProviderTesti(String arananKelime) {
         AmazonPage amazonPage=new AmazonPage();

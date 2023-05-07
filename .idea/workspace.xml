@@ -55,7 +55,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C03_DataProvider.dataProviderTesti">
+  <component name="RunManager" selected="TestNG.NegatifLoginTesti.yanlisSifre">
     <configuration name="C02_SoftAssertCross.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
       <extension name="coverage">
@@ -127,10 +127,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/CrossBrowserParalelCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegatifLoginTesti.yanlisSifre" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNG_Batch" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/CrossBrowserParalelCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day19_somokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day19_somokeTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19_somokeTest.NegatifLoginTesti" />
+      <option name="METHOD_NAME" value="yanlisSifre" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -139,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NegatifLoginTesti.yanlisSifre" />
         <item itemvalue="TestNG.C03_DataProvider.dataProviderTesti" />
         <item itemvalue="TestNG.C03_DataProvider.test01" />
         <item itemvalue="TestNG.C03_DataProvider" />
         <item itemvalue="TestNG.C02_SoftAssertCross.test01" />
-        <item itemvalue="TestNG./Users/fadimeozcelik/IdeaProjects/com.TestNG_Batch/src/CrossBrowserParalelCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>
